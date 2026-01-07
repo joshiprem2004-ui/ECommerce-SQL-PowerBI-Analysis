@@ -50,7 +50,7 @@ E-commerce / Quick Commerce Analytics
 
 ---
 
- 👤 Author
-Prem Joshi 
+## 👤 Author
+**Prem Joshi**  
 Aspiring Data Analyst
 
