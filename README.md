@@ -39,7 +39,7 @@ E-commerce / Quick Commerce Analytics
 ---
 
 ## 📸 Dashboard Preview
-![Power BI Dashboard](powerbi/dashboard_preview.png)
+![Power BI Dashboard](dashboard_preview.png)
 
 ---
 
